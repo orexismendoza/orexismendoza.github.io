@@ -160,7 +160,8 @@ span {
 	background-color: #0aa7e8ff;
 }
 #Services {
-  background-color: #fafafa;
+  background-color: #00b4ffff;
+  color:white;
 }
 #Services .service-box {
   position: relative;
